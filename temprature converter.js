@@ -7,6 +7,6 @@ let fahrenheittocelsius = (tempratureinfahrenheit -32)*5/9;
 
 
 
-console.log(`celsiustofahrenheit: ${celsiustofahrenheit}`);
+console.log(`celsius to fahrenheit: ${celsiustofahrenheit}`);
 
-console.log(`fahrenheittocelsius: ${fahrenheittocelsius}`);
+console.log(`fahrenheit to celsius: ${fahrenheittocelsius}`);
