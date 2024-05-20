@@ -29,7 +29,7 @@ const students =[
             else{
                 reject(above30)
             }
-    },2000)
+    },2000)  //2 second
 });
     console.log(simplepromise)
     simplepromise.then(data=>{
